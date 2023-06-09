@@ -1,0 +1,11 @@
+D:\projects\Calculator2023\Calculator2023\bin\Debug\Calculator2023.exe.config
+D:\projects\Calculator2023\Calculator2023\bin\Debug\Calculator2023.exe
+D:\projects\Calculator2023\Calculator2023\bin\Debug\Calculator2023.pdb
+D:\projects\Calculator2023\Calculator2023\obj\Debug\Calculator2023.csproj.AssemblyReference.cache
+D:\projects\Calculator2023\Calculator2023\obj\Debug\Calculator2023.csproj.SuggestedBindingRedirects.cache
+D:\projects\Calculator2023\Calculator2023\obj\Debug\Calculator2023.Properties.Resources.resources
+D:\projects\Calculator2023\Calculator2023\obj\Debug\Calculator2023.csproj.GenerateResource.cache
+D:\projects\Calculator2023\Calculator2023\obj\Debug\Calculator2023.csproj.CoreCompileInputs.cache
+D:\projects\Calculator2023\Calculator2023\obj\Debug\Calculator2023.exe
+D:\projects\Calculator2023\Calculator2023\obj\Debug\Calculator2023.pdb
+D:\projects\Calculator2023\Calculator2023\obj\Debug\Calculator2023.Calculator.resources
