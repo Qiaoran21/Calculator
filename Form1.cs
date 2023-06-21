@@ -36,10 +36,19 @@ namespace Calculator2023
             this.btnSubtraction.Click += BtnSubtraction_Click;
             this.btnSlash.Click += BtnSlash_Click;
             this.btnMultiplication.Click += BtnMultiplication_Click;
+            this.btnDecimalPoint.Click += BtnDecimalPoint_Click;
 
             this.btnClear.Click += BtnClear_Click;
 
             this.btnEqual.Click += BtnEqual_Click;
+        }
+
+        /// <summary>
+        /// Handles the Click event of the Decimal Point button.
+        /// </summary>
+        private void BtnDecimalPoint_Click(object sender, EventArgs e)
+        {
+            lblScreen.Text += ".";
         }
 
         /// <summary>
